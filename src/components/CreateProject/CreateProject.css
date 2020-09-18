@@ -1,0 +1,14 @@
+section {
+  overflow-y: scroll;
+  align-content: center;
+}
+.btn {
+  margin: 10px;
+  text-align: center;
+}
+input {
+  margin: 15px;
+}
+#createBtn {
+  width: 200px;
+}
